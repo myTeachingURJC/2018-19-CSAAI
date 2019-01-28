@@ -648,6 +648,36 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path927-2-4-5-0-8-1-6-9" />
     </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-1-9-9-1-2-3-36"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path927-2-4-5-0-8-1-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-1-9-9-1-2-3-36-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path927-2-4-5-0-8-1-7-5" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -657,10 +687,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="1352.4663"
-     inkscape:cy="985.60437"
+     inkscape:cx="1190.4354"
+     inkscape:cy="1267.7489"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="996"
@@ -682,7 +712,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -794,7 +824,7 @@
        inkscape:export-xdpi="90"
        inkscape:connector-curvature="0"
        id="path883-9-7-0-6-9-8"
-       d="m 450.83649,74.246191 -0.56925,51.538399"
+       d="m 450.83649,74.688083 -0.56925,35.282447"
        style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-9-9-1-2-3)" />
     <flowRoot
        xml:space="preserve"
@@ -972,5 +1002,23 @@
        id="path883-9-7-0-6-9-8-7-73"
        d="m 451.90556,-185.53979 -0.56925,51.5384"
        style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-9-9-1-2-3-3-28)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S02-HTML/html-04.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:connector-curvature="0"
+       id="path883-9-7-0-6-9-8-5"
+       d="m 239.16983,72.420225 -0.56925,35.282435"
+       style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-9-9-1-2-3-36)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S02-HTML/html-04.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:connector-curvature="0"
+       id="path883-9-7-0-6-9-8-5-6"
+       d="m 674.5984,72.420225 -0.56925,35.282425"
+       style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-9-9-1-2-3-36-3)" />
   </g>
 </svg>
