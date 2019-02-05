@@ -1,0 +1,16 @@
+/* R5: Primero yo, luego mi clase, y luego el resto */
+
+/* Estlo para el elemento con identificador único yo */
+#yo {
+  color: blue;
+}
+
+/* Estilo para los elementos de la clase miclase */
+.miclase {
+  color: green;
+}
+
+/* Estilo para los párrafos */
+p {
+  color: orange;
+}
