@@ -1,0 +1,9 @@
+/* R2: El INLINE es INMODIFICBLE */
+
+/* Color del texto de los parrafos */
+p {
+  color: green;
+}
+
+/* Si el color se ha cambiado directamente en el html, en la etiqueta p
+   No podemos hacer nada desde la hoja de estilo */
