@@ -1,0 +1,15 @@
+/* R1: El último será el primero */
+
+/* Se define el color del texto para etiquetas h1 */
+h1 {
+  color: green;
+}
+
+/* Se define otro color del testo para etiquetas h1
+   Hay contradiccion entre las dos relas
+   ¿Cual gana? */
+h1 {
+  color: orange;
+}
+
+/* Aplicando la regla R1, el color de h1 es naranja */
