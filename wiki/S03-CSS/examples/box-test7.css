@@ -9,7 +9,7 @@ body {
 
 /*  Propiedades de la caja del párrafo */
 p {
-  margin: 0px;
+  margin: 10px;
   padding: 10px; /* Relleno */
   border:solid;
   border-color: blue;
