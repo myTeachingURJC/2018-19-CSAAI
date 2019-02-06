@@ -1,0 +1,16 @@
+
+/* Propiedades de la caja del cuerpo */
+body {
+  padding: 0px;
+  margin: 10px;  /* Margen */
+  border: solid;
+  border-color: red;
+}
+
+/*  Propiedades de la caja del párrafo */
+p {
+  margin: 0px;
+  padding: 10px; /* Relleno */
+  border:solid;
+  border-color: blue;
+}
