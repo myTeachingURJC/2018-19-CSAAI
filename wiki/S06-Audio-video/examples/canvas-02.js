@@ -1,6 +1,5 @@
 function main()
 {
-  console.log("En main()...")
 
   //-- Obtener el elemento canvas
   var canvas = document.getElementById("display");
@@ -13,7 +12,7 @@ function main()
   var ctx = canvas.getContext("2d");
 
   //-- Dibujar un rectangulo
-  ctx.rect(5,5,canvas.width/2,canvas.height/2);
+  ctx.rect(5,5, 100, 50);
   ctx.stroke()
 
 }
