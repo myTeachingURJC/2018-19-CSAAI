@@ -18,6 +18,7 @@ function main()
 
   //-- Texto trazo
   ctx.strokeStyle = 'blue';
-  ctx.strokeText("Texto trazo", 10, 70);
+  ctx.font = "35px Arial";
+  ctx.strokeText("Texto trazo", 5, 80);
 
 }
