@@ -1,0 +1,18 @@
+
+/* Estilo del canvas:
+   Lo bordeamos con una linea negra, y le damos
+   fondo azul para distinguirlo
+*/
+canvas {
+  background-color: lightblue;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+
+/* Imagen deshabilitada
+   Se usa para leerla desde js y
+   meterla en el canvas */
+#logo-urjc {
+  display: none;
+}
