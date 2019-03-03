@@ -1,7 +1,6 @@
 function main()
 {
 
-
   //-- Crear el canvas
   var canvas = document.getElementById('display')
   canvas.width = 600;
