@@ -41,10 +41,13 @@ function main() {
     //-- Obtener el array con todos los píxeles
     var data = imgData.data
 
+    //-- Obtener el umbral de rojo del desliador
+    umbral = deslizador.value
+
     //-- Filtrar la imagen según el nuevo umbral
     for (var i = 0; i < data.length; i+=4) {
-      if (data[i] > deslizador.value)
-        data[i] = 0; //-- Canal rojo a 0
+      if (data[i] > umbral)
+        data[i] = umbral;
     }
 
     //-- Poner la imagen modificada en el canvas
