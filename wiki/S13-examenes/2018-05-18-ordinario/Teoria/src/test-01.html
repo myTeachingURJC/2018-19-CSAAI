@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+
+function Particula() {
+  this.x = 0;
+  this.y = 0;
+  this.incx = function() {
+    this.x += 3;
+  }
+}
+
+var p1 = new Particula();
+
+p1.incx()
+p1.incx()
+console.log(p1.x)
+
+</script>
+
+</body>
+</html>
